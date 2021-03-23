@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema de día antiedad que restaura el volumen perdido de la piel del rostro."
+  title : "Cuidado de noche antiarrugas y reafirmante."
   content : "Para combatir eficazmente los cambios relacionados con la edad en la piel del rostro, es necesario, en primer lugar, pensar profundamente. Los científicos de hoy han llegado a la conclusión de que la clave para la juventud y la firmeza de la piel radica en una hidratación intensa, que apoya el metabolismo natural."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Un súper humectante reconocido es el ácido hialurónico, que puede unir grandes cantidades de agua, evitando así la sequedad, la opacidad y las arrugas."
+  content : "Las mujeres sueñan que la piel del rostro permanece joven el mayor tiempo posible. Para mantener su elasticidad, se necesita una cantidad óptima de humedad. La crema de noche antiarrugas LiftActiv Nuit Supreme tiene un efecto antiedad complejo y es adecuada para todo tipo de pieles."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "Cómo utilizar el producto?"
-  content : "Aplicar la cantidad necesaria de crema en el rostro con suaves movimientos de masaje."
+  content : "aplicar todas las noches sobre la piel de rostro y cuello previamente limpiada. Después de la aplicación, masajee suavemente la piel hasta que se absorba por completo."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,21 +89,21 @@ testimonial:
     - name : "Florentina Villca"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Me gustó la crema, veo el resultado y por eso les aconsejo a todos!"
+      content : "Esta crema es ideal para mis hijos. Pero no sé, no sé mucho sobre el viejo, el rojo, si sientes que has recordado el color de mi cara. Y proishov, mabud, tizden lecher. En mí, hay un tipo de piel grasa que a menudo es esquiva a las manifestaciones alérgicas, platos enrojecidos y secos de varios tipos. El contagio se puede simplemente exponer."
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Ana Pankara"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "No tomo la crema por primera vez. Satisfecho. Entro al complejo durante el día."
+      content : "Douzhe mejor crema, la textura del aceite, absorbida rápidamente por el shkіroy, no espumada por el plіvkoy. Ligero, no graso. En la herida, revelando svіzhe, rіvny tono. Shkira es sensible, las burlas no son malas. Tengo una costra de crema diurna para los ojos. Las tres maravillas."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
     - name : "Gektor Sucso"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Esta no es la primera vez que uso la crema, sin irritación, buenas sensaciones en la piel."
+      content : "Súper crema, piel sensible, encaja perfectamente. Esta no es la primera vez que ordeno un maquillaje, todo es excelente para el cumplimiento de los pedidos)"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
